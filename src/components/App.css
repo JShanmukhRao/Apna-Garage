@@ -1,0 +1,17 @@
+
+.app{
+  height:100vh;
+ 
+  background-image: url('../form.jpg');
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 110vh;
+   /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  padding : 1em;
+  
+ }
+ .form-body{
+     color: #20222b;
+ }
